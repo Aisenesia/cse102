@@ -1,0 +1,8 @@
+B|978-5-112233-44-5|For Whom the Bell Tolls|Ernest Hemingway|1940|A|
+B|978-9-012345-67-8|1984|George Orwell|1949|A|
+B|978-5-678901-23-4|The Great Gatsby|F. Scott Fitzgerald|1925|R|
+B|978-3-456789-01-2|To Kill a Mockingbird|Harper Lee|1960|A|
+B|978-1-234567-89-0|The Shadow of the Wind|Carlos Ruiz Zafon|1960|R|
+S|Miles Morales|424242|0|
+S|John Smith|123456|2|978-1-234567-89-0|978-5-678901-23-4|
+S|Emily Johnson|789012|0|

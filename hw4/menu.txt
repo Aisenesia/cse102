@@ -1,0 +1,11 @@
+Product             Price (TL)
+Kebap               75.99
+Lahmacun            21.50
+Pilav Ustu Tavuk    35.30
+Pide                41.00
+Doner               55.60
+Kola                15.00
+Su                  5.00
+Kunefe              60.00
+Sutlac              32.50
+Cay                 8.00
